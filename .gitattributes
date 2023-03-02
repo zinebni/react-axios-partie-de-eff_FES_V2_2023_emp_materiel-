@@ -1,0 +1,3 @@
+# Ignore all Python files when calculating language percentage
+*.py linguist-vendored
+# Ensure JS files are detected and counted
