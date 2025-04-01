@@ -1,0 +1,64 @@
+{
+  "employes": [
+    {
+      "id": "n1",
+      "nomEmp": "BENNAN",
+      "prenomEmp": "zineb",
+      "poste": "developpeuse",
+      "departement": {
+        "codeDep": "dev205",
+        "nomDep": "développement"
+      }
+    },
+    {
+      "id": "n2",
+      "nomEmp": "moukhlisse",
+      "prenomEmp": "nouhayla",
+      "poste": "devloppeuse",
+      "departement": {
+        "codeDep": "dev1",
+        "nomDep": "devloppement"
+      }
+    },
+    {
+      "id": "n3",
+      "nomEmp": "falahi",
+      "prenomEmp": "douae",
+      "poste": "developpeuse",
+      "departement": {
+        "codeDep": "dev01",
+        "nomDep": "développement "
+      }
+    },
+    {
+      "id": "n4",
+      "nomEmp": "Bennani",
+      "prenomEmp": "imane",
+      "poste": "rh",
+      "departement": {
+        "codeDep": "ges1",
+        "nomDep": "gestion"
+      }
+    },
+    {
+      "id": "n5",
+      "nomEmp": "test",
+      "prenomEmp": "aaa",
+      "poste": "aaa",
+      "departement": {
+        "codeDep": "aaa",
+        "nomDep": "aaa"
+      }
+    },
+    {
+      "id": "n6",
+      "nomEmp": "test",
+      "prenomEmp": "bbb",
+      "poste": "bbb",
+      "departement": {
+        "codeDep": "bbb",
+        "nomDep": "bbb"
+      }
+    }
+  ]
+}
